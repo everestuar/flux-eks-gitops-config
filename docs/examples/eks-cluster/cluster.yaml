@@ -26,6 +26,6 @@ iam:
     # Swap the Policy ARN below with your own AWS account
     # i.e. arn:aws:iam::(your_aws_account_number_here):policy/AWSLoadBalancerControllerIAMPolicy
     attachPolicyARNs:
-    - arn:aws:iam::575614042858:policy/AWSLoadBalancerControllerIAMPolicy
+    - arn:aws:iam::511620223753:policy/AWSLoadBalancerControllerIAMPolicy
     roleOnly: true
 
