@@ -8,3 +8,4 @@ resources:
   - kube-prometheus-stack
   - nginx-ingress-controller
   - flagger
+  - external-dns
